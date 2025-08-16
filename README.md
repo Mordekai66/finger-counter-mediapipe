@@ -31,7 +31,7 @@ Run the script:
 ```
 python finger_counter.py
 ```
-`**Press q to exit.**`
+**`Press q to exit.`**
 
 ## Demo
 <img width="801" height="630" alt="image" src="https://github.com/user-attachments/assets/384c88e9-6c68-46ed-8420-15dcd6923b99" />
