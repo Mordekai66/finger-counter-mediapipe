@@ -14,11 +14,7 @@ It detects hand landmarks using Mediapipe and counts the number of fingers raise
 ---
 
 ## Installation
-### Clone the repository:
-```bash
-git clone https://github.com/your-username/finger-counter-mediapipe.git
-cd finger-counter-mediapipe
-```
+### Clone the repository
 
 ### Install the required dependencies:
 
